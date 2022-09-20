@@ -1,7 +1,7 @@
 # Update
 
-`git clone https://github.com/Rajvir0/Update.git`
+###   `git clone https://github.com/Rajvir0/Update.git`
 
-* `cd Update`
+### `cd Update`
 
 #### > Run : `python update.py`

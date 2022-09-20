@@ -4,4 +4,4 @@
 
 * `cd Update`
 
-#### > Run : `python Arfin-Raj1.py`
+#### > Run : `python update.py`
